@@ -1,0 +1,23 @@
+.form-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+    height: 100vh;  
+  }
+  
+  .custom-form {
+    border: 2px solid #ccc; 
+    padding: 20px;     
+    width: 50%;      
+    background-color: #f9f9f9; 
+    border-radius: 8px;  
+  }
+  
+  .custom-form .form-control {
+    width: 100%;    
+  }
+  
+  .custom-line {
+    border: 1px solid #5c5a5a; 
+    margin: 20px 0;    
+  }
