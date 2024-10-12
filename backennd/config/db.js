@@ -6,4 +6,4 @@ const mySqlPool = mysql.createPool({
     database:'student'
 })
 
-module.exports =mySqlPool;
+module.exports = mySqlPool;
