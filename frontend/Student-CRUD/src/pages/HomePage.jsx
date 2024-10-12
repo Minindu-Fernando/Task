@@ -7,15 +7,9 @@ import Form from 'react-bootstrap/Form';
 import Row from 'react-bootstrap/Row';
 import Table from 'react-bootstrap/Table';
 import Button from 'react-bootstrap/Button';
-//import { useNavigate } from 'react-router-dom';
 
 export default function HomePage() {
 
- // const navigate = useNavigate(); 
-
- // const handleView = () => {
- //   navigate('/ViewPage'); 
-//  };
   return (
     <div>
         <div className="form-container">
